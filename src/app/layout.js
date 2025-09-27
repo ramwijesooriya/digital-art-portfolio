@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 
 export const metadata = {
-  title: 'Digital Art Portfolio - Creative Artworks',
+  title: 'Nishu ARTS- Creative Artworks',
   description: 'Explore unique digital artworks created with passion and creativity',
 }
 
