@@ -6,27 +6,27 @@ import { useState, useEffect } from 'react'
 const featuredArtworks = [
   {
     id: 1,
-    title: "Ethereal Dreams",
+    title: "",
     image: "/images/art1.jpg"
   },
   {
     id: 2,
-    title: "Neon Cityscape",
+    title: "",
     image: "/images/art2.jpg"
   },
   {
     id: 3,
-    title: "Abstract Harmony",
+    title: "",
     image: "/images/art3.jpg"
   },
   {
     id: 4,
-    title: "Digital Portrait",
+    title: "",
     image: "/images/art4.jpg"
   },
   {
     id: 5,
-    title: "Cosmic Wonder",
+    title: "",
     image: "/images/art5.jpg"
   }
 ]
