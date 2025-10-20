@@ -6,7 +6,7 @@ import { useState, useEffect } from 'react'
 const featuredArtworks = [
   {
     id: 1,
-    title: "",
+    title: " ",
     image: "/images/art1.jpg"
   },
   {
